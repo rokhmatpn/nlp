@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newsMessage xmlns="http://iptc.org/std/nar/2006-10-01/">
+  <header>
+    <sent>2019-05-12T07:26:03+07:00</sent>
+    <sender>kgnewsroom.com</sender>
+    <transmitId>5183</transmitId>
+    <channel>Video</channel>
+  </header>
+  <itemSet>
+    <packageItem guid="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298" version="8" standard="NewsML-G2" standardversion="2.7" conformance="power">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_6.xml" />
+      <catalogRef href="http://cv.ap.org/customer/cv/catalog4customers-1.xml" />
+      <rightsInfo>
+        <copyrightHolder literal="KG" />
+        <copyrightNotice>Internal Kompas Gramedia</copyrightNotice>
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="ninat:composite" />
+        <provider literal="KG" />
+        <versionCreated>2019-05-10T20:59:25+07:00</versionCreated>
+        <firstCreated>2019-05-10T20:59:25+07:00</firstCreated>
+        <title>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </title>
+        <edNote>Khusus KGMedia</edNote>
+      </itemMeta>
+      <contentMeta>
+        <contentCreated>2019-05-10T20:59:25+07:00</contentCreated>
+        <contentModified>2019-05-10T20:59:25+07:00</contentModified>
+        <slugline>BALIKPAPAN VJ LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU  </slugline>
+        <dateline></dateline>
+      </contentMeta>
+      <groupSet root="root">
+        <group role="grpRole:NEP" id="root">
+          <groupRef idref="main" />
+        </group>
+        <group role="grpRole:Main" id="main">
+          <itemRef residref="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298-text" contenttype="application/vnd.iptc.g2.newsitem+xml">
+            <itemClass qcode="ninat:text" />
+            <provider literal="KG" />
+            <pubStatus qcode="stat:usable" />
+          </itemRef>
+          <itemRef residref="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298-video" contenttype="application/vnd.iptc.g2.newsitem+xml">
+            <itemClass qcode="ninat:video" />
+            <provider literal="KG" />
+            <pubStatus qcode="stat:usable" />
+          </itemRef>
+        </group>
+      </groupSet>
+    </packageItem>
+    <newsItem guid="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298-text" version="8" standard="NewsML-G2" standardversion="2.7" conformance="power">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_6.xml" />
+      <rightsInfo>
+        <copyrightHolder literal="KG" />
+        <copyrightNotice>No access USA and Canada</copyrightNotice>
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="ninat:text" />
+        <provider literal="KG" />
+        <versionCreated>2019-05-10T20:59:25+07:00</versionCreated>
+        <firstCreated>2019-05-10T20:59:25+07:00</firstCreated>
+        <title>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </title>
+        <edNote>Notes</edNote>
+      </itemMeta>
+      <contentMeta>
+        <altId type="foreignkey:StoryNumber">5183</altId>
+        <contentCreated>2019-05-10T20:59:25+07:00</contentCreated>
+        <contentModified>2019-05-10T20:59:25+07:00</contentModified>
+        <slugline>BALIKPAPAN VJ LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU  </slugline>
+        <dateline></dateline>
+      </contentMeta>
+      <contentSet>
+        <inlineXML contenttype="application/xhtml+xml">
+          <html xmlns="http://www.w3.org/1999/xhtml">
+            <head>
+              <title>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </title>
+            </head>
+            <body>
+              <hl1>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </hl1>
+              <div>
+                <p></p>
+                <p>(( LEAD IN ))</p>
+                <p>PANGKALAN TNI ANGKATAN LAUT KOTA BALIKPAPAN KALIMANTAN TIMUR/ MENGGELAR BUKA PUASA BERSAMA DENGAN ANAK YATIM PIATU/ PADA JUMAT SORE// DI SELA SELA KEGIATAN BUKA PUASA BERSAMA/ PENINGKATAN PENGAMANAN JALUR LAUT JELANG ARUS MUDIK LEBARAN JUGA DITINGKATKAN// </p>
+                <p>((PKG))</p>
+                <p>PERSONIL PANGKALAN TNI ANGKATAN LAUT ATAU LANAL BALIKPAPAN MENGGELAR BUKA PUASA BERSAMA/ PADA JUMAT SORE DI MAKO LANAL// SELAIN DIHADIRI WALIKOTA SERTA WAKIL WALIKOTA BALIKPAPAN/ DAN UNSUR FORUM KOMUNIKASI PIMPINAN DAERAH/ BUKA PUASA INI JUGA MENGUNDANG ANAK YATIM PIATU//  </p>
+                <p>KEGIATAN BUKA PUASA BERSAMA INI JUGA TURUT MENGUNDANG USTADZ KASIF HEER DARI JAKARTA/ UNTUK MEMBERIKAN TAUZIAH/ TERKAIT BERBAGI REJEKI KEPADA SESAMA DI BULAN RAMADAN// </p>
+                <p>ANAK YATIM PIATU JUGA MENDAPATKAN BINGKISAN SERTA SANTUNAN/ AGAR BISA DIGUNAKAN UNTUK MEMENUHI KEBUTUHAN DI BULAN RAMADAN DAN HARI RAYA IDUL FITRI//</p>
+                <p>SB : KOLONEL LAUT ( P ) WAHYU CAHYONO / DANLANAL BALIKPAPAN </p>
+                <p>DI SELA SELA KEGIATAN BUKA BERSAMA/ LANAL BALIKPAPAN JUGA MENINGKATKAN INTENSITAS PENGAMANAN WILAYAH LAUT DI PERAIRAN TELUK BALIKPAPAN/ KHUSUSNYA UNTUK MENGHADAPI ARUS MUDIK LEBARAN/ BEKERJASAMA DENGAN INSTANSI LAIN YANG TERLIBAT// </p>
+                <p>ISKANDAR AMIR DAHLAN/ KOMPAS TV BALIKPAPAN/ KALIMANTAN TIMUR///</p>
+              </div>
+            </body>
+          </html>
+        </inlineXML>
+      </contentSet>
+    </newsItem>
+    <newsItem guid="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298-video" version="8" standard="NewsML-G2" standardversion="2.7" conformance="power">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_6.xml" />
+      <catalogRef href="http://cv.ap.org/customer/cv/catalog4customers-1.xml" />
+      <rightsInfo>
+        <copyrightHolder literal="KG" />
+        <copyrightNotice>No access USA and Canada</copyrightNotice>
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="ninat:video" />
+        <provider literal="KG" />
+        <versionCreated>2019-05-10T20:59:25+07:00</versionCreated>
+        <firstCreated>2019-05-10T20:59:25+07:00</firstCreated>
+        <title>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </title>
+        <edNote>No access USA and Canada</edNote>
+      </itemMeta>
+      <contentMeta>
+        <icon href="https://asset.kgnewsroom.com/video/pos/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4_mp4.jpg" contenttype="image/jpeg" width="640" height="360" />
+        <contentCreated>2019-05-10T20:59:25+07:00</contentCreated>
+        <contentModified>2019-05-10T20:59:25+07:00</contentModified>
+        <slugline>BALIKPAPAN VJ LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU  </slugline>
+        <dateline></dateline>
+      </contentMeta>
+      <contentSet>
+        <remoteContent href="https://asset.kgnewsroom.com/video/ori/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4.mp4" size="251030273" contenttype="video/mp4" width="1920" height="1080" rendition="rnd:highRes" videoavgbitrate="10000000" videoframerate="25.00" videocodec="codec:mpeg4" videoaspectratio="16:9" duration="201" videodefinition="videodef:HD" />
+        <remoteContent href="https://asset.kgnewsroom.com/video/lor/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4_mp4.mp4" contenttype="video/mpg4" width="640" height="360" rendition="rnd:preview" videoavgbitrate="426000" videoframerate="25.00" videocodec="codec:h264" videoaspectratio="16:9" duration="193" videodefinition="videodef:SD" />
+      </contentSet>
+    </newsItem>
+    <newsItem guid="tag:ap.org,2009:de9d9e1d-02ae-4f9e-9534-aa4e030b1298-video" version="8" standard="NewsML-G2" standardversion="2.7" conformance="power">
+      <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_6.xml" />
+      <catalogRef href="http://cv.ap.org/customer/cv/catalog4customers-1.xml" />
+      <rightsInfo>
+        <copyrightHolder literal="KG" />
+        <copyrightNotice>No access USA and Canada</copyrightNotice>
+      </rightsInfo>
+      <itemMeta>
+        <itemClass qcode="ninat:video" />
+        <provider literal="KG" />
+        <versionCreated>2019-05-10T20:59:25+07:00</versionCreated>
+        <firstCreated>2019-05-10T20:59:25+07:00</firstCreated>
+        <title>RAMADAN, LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU </title>
+        <edNote>No access USA and Canada</edNote>
+      </itemMeta>
+      <contentMeta>
+        <icon href="https://asset.kgnewsroom.com/video/pos/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4_mp4.jpg" contenttype="image/jpeg" width="640" height="360" />
+        <contentCreated>2019-05-10T20:59:25+07:00</contentCreated>
+        <contentModified>2019-05-10T20:59:25+07:00</contentModified>
+        <slugline>BALIKPAPAN VJ LANAL BUKA PUASA BERSAMA ANAK YATIM PIATU  </slugline>
+        <dateline></dateline>
+      </contentMeta>
+      <contentSet>
+        <remoteContent href="https://asset.kgnewsroom.com/video/ori/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4.mp4" size="251030273" contenttype="video/mp4" width="1920" height="1080" rendition="rnd:highRes" videoavgbitrate="10000000" videoframerate="25.00" videocodec="codec:mpeg4" videoaspectratio="16:9" duration="201" videodefinition="videodef:HD" />
+        <remoteContent href="https://asset.kgnewsroom.com/video/lor/2019/05/10/f0001983-c365-402b-aace-ba2affb957a4_mp4.mp4" contenttype="video/mpg4" width="640" height="360" rendition="rnd:preview" videoavgbitrate="426000" videoframerate="25.00" videocodec="codec:h264" videoaspectratio="16:9" duration="193" videodefinition="videodef:SD" />
+      </contentSet>
+    </newsItem>
+  </itemSet>
+</newsMessage>
